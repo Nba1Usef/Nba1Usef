@@ -32,6 +32,5 @@
 
 <a href="https://www.linkedin.com/in/yousef-ragab-el-shorbagey-844925154" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Ragab-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100010309298813" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Ragab-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-
 <a href="https://t.me/Yousef6411" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Ragab-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### Show some ❤️ by starring some of the repositories!
